@@ -11,6 +11,10 @@
     "crawl",
     "best image"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timvracer/best-image"
+  },
   "author": "Tim Villanueva, Copyright 2016 Ask.com",
   "license": "MIT",
   "readmeFilename": "README.md",
