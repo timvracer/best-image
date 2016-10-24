@@ -4,7 +4,7 @@
   "description": "Library that will retrieve an HTML document (by URL) and return the best image from the page to represent the document",
   "main": "lib/best-image.js",
   "scripts": {
-    "test": "NODE_ENV='test' mocha npmapi_test.js --reporter spec"
+    "test": "NODE_ENV='test' mocha test/best-image_test.js --reporter spec"
   },
   "keywords": [
     "image",
