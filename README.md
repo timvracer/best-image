@@ -1,7 +1,7 @@
 BestImage
 =========
 
-![alt text](http://i68.tinypic.com/bjhcnt.jpg "Logo Title Text 1")
+![alt text](http://i68.tinypic.com/bjhcnt.jpg "Best Image")
 
 An very specific-purpose library which will find the "best image" to represent a given web page by URL.  
 
