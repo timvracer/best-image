@@ -1,7 +1,7 @@
 BestImage
 =========
 
-[![]http://i68.tinypic.com/bjhcnt.jpg(https://git.ask.com/villanuevat/best-image)
+[![]http://i68.tinypic.com/bjhcnt.jpg]
 
 An very specific-purpose library which will find the "best image" to represent a given web page by URL.  
 
