@@ -2,6 +2,7 @@ BestImage
 =========
 
 [![]http://i68.tinypic.com/bjhcnt.jpg]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 An very specific-purpose library which will find the "best image" to represent a given web page by URL.  
 
