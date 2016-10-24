@@ -1,6 +1,6 @@
 {
   "name": "best-image",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "Library that will retrieve an HTML document (by URL) and return the best image from the page to represent the document",
   "main": "lib/best-image.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "grunt-cli": "0.1.13",
     "grunt-config-dir": "0.3.2",
     "grunt-contrib-jshint": "0.6.5",
+    "grunt-env": "^0.4.4",
     "grunt-mocha-cli": "1.9.0",
     "image-size": "^0.5.0",
     "image-type": "^2.1.0",
