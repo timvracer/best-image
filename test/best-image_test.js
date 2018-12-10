@@ -508,8 +508,9 @@ describe("ImageScore module", function() {
 		describe("function findValidImage to return a single image from array", function() {
 	
 			var fullUrl = "http://www.site.com/index.html";
+			console.log("IMG ARRAY", imgArray);
 			bestImage.findValidImage(fullUrl, imgArray, null, function(err, bestImg) {
-				assert.equal("http://image1.jpg", bestImg);
+				assert.equal("/ogimage.jpg", bestImg);
 			});
 		});
 
