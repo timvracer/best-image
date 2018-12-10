@@ -1,6 +1,6 @@
 {
   "name": "best-image",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Library that will retrieve an HTML document (by URL) and return the best image from the page to represent the document",
   "main": "lib/best-image.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "async": "^2.0.1",
-    "callback-data-bus": "^1.0.3",
+    "callback-data-bus": "^1.0.5",
     "cheerio": "^0.22.0",
     "css": "^2.2.4",
     "grunt": "^1.0.3",
