@@ -1,6 +1,6 @@
 {
   "name": "best-image",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Library that will retrieve an HTML document (by URL) and return the best image from the page to represent the document",
   "main": "lib/best-image.js",
   "scripts": {
@@ -19,19 +19,19 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "assert": "^1.5.0"
+    "assert": "^1.5.0",
+    "grunt": "^1.0.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-config-dir": "^0.3.2",
+    "grunt-contrib-jshint": "^0.6.5",
+    "grunt-env": "^0.4.4",
+    "grunt-mocha-cli": "^1.14.0"
   },
   "dependencies": {
     "async": "^2.6.2",
     "callback-data-bus": "^1.0.5",
     "cheerio": "^0.20.0",
     "css": "^2.2.1",
-    "grunt": "^1.0.4",
-    "grunt-cli": "^0.1.13",
-    "grunt-config-dir": "^0.3.2",
-    "grunt-contrib-jshint": "^0.6.5",
-    "grunt-env": "^0.4.4",
-    "grunt-mocha-cli": "^1.14.0",
     "image-size": "^0.5.0",
     "image-type": "^2.1.0",
     "request": "^2.74.0",
