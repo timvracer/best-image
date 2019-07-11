@@ -1,6 +1,6 @@
 {
   "name": "best-image",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Library that will retrieve an HTML document (by URL) and return the best image from the page to represent the document",
   "main": "lib/best-image.js",
   "scripts": {
@@ -29,7 +29,6 @@
     "image-size": "^0.5.0",
     "image-type": "^2.1.0",
     "request": "^2.74.0",
-    "sinon": "^1.17.5",
     "string-similarity": "^1.1.0",
     "underscore": "^1.8.3",
     "url": "^0.11.0"
